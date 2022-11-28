@@ -1,6 +1,6 @@
 <div align="center">  
 
-# OSS 개인과제
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=OSS%20개인과제&fontSize=70)
 
 <br><br>
 
