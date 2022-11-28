@@ -1,10 +1,8 @@
 # 깃 주요 명령어
 
-<br><br>
+<br>
 
 ## branch
-
-<br>
 
 + **branch** 란 여러 개발자들이 동시에 다양한 작업을 할 수 있게 만들어 주는 기능
 
@@ -20,8 +18,6 @@
 
 ## checkout
 
-<br>
-
 + **checkout** 명령어는 깃에서 브랜치 간 이동을 할 때 사용
 
 + `$ git checkout <브랜치명>`
@@ -33,8 +29,6 @@
 <br><br>
 
 ## switch
-
-<br>
 
 + **switch** 명령어는 checkout과 마찬가지로 깃에서 브랜치 간 이동을 할 때 사용
 
