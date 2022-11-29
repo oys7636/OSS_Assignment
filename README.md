@@ -28,7 +28,9 @@
 
 ## :pushpin: cheat sheet
 
-### [cheat sheet](https://github.com/oys7636/OSS_Assignment/tree/main/cheat%20sheet)
+### [GIT cheat sheet](https://github.com/oys7636/OSS_Assignment/tree/main/cheat%20sheet)
+
+### [GITHUB cheat sheet](https://github.com/oys7636/OSS_Assignment/tree/main/cheat%20sheet)
 
 <br><br>
 
