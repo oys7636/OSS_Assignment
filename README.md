@@ -30,7 +30,7 @@
 
 ### [GIT cheat sheet](https://github.com/oys7636/OSS_Assignment/blob/main/cheat%20cheet/GIT%20Cheat%20Sheet.pdf)
 
-### [GITHUB cheat sheet](https://github.com/oys7636/OSS_Assignment/tree/main/cheat%20sheet)
+### [GITHUB cheat sheet](https://github.com/oys7636/OSS_Assignment/blob/main/cheat%20cheet/GITHUB%20Cheat%20Sheet.pdf)
 
 <br><br>
 
